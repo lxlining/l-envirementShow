@@ -1,0 +1,6 @@
+#menu .title{width: 200px; padding: 0 25px; text-align: left; font-size: 19px; border-bottom: 1px solid gainsboro; color: #000;}
+		#menu{width:250px; float: left;}
+		#menu a{padding: 5px 25px 5px 15px; width:180px; font-size: 16px;}
+		#menu a{color: #000;}
+		#menu a:hover{background-color: #fff; color: lightseagreen;}
+		#main{width:785px; background-color: #fff; float: left; margin-left: 15px;}

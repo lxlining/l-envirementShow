@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>环境枢</title>
+	</head>
+	<link rel="stylesheet" href="css/menu.css">
+	<style type="text/css">
+		body{background-color: #EFEEF0;}
+		#content{margin:0 auto; padding: 25px; text-align: center; width: 1000px; margin-top: 40px; height: 500px; background-color: #fff;}
+		#footer{height: 50px; width: 100%; clear: both;}
+	</style>
+	<body>
+		<div id="mynav">
+			<div id="left">
+				<a href="#"><img src="img/Logo.png" width="150px" height="70px"></a>
+			</div>
+			<ul>
+				<li>
+					<a href="index.php">首页</a>
+				</li>
+				<li>
+					<a href="volunteer.php">志愿活动</a>
+				</li>
+				<li>
+					<a href="Newsac.html">专题活动</a>
+				</li>
+				<li>
+					<a href="Pssendevent.html">上报事件</a>
+				</li>
+				<li>
+					<a href="Post.html">贴吧</a>
+				</li>
+				<li style="background-color: rgba(80,80,80,0.8); font-weight: bold;">
+					<a href="Evsilght.html">环境观测</a>
+				</li>
+				<li style="float:right;" id="btn">
+					<a href="login.php">
+						<img src="img/signLogin.png"  width="50" height="50"/>
+					</a>
+				</li>
+			</ul>
+		</div>
+		<div id="content">
+			<div id="container" style="height: 100%"></div>
+			<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+			<script type="text/javascript" src="js/forest.js"></script>
+		</div>
+		<div id="footer"></div>
+	</body>
+</html>
