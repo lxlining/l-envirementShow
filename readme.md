@@ -1,5 +1,6 @@
 <p>技术：php7.3+MySQL5.6+Apache2</p>
 <p>基于laravel的web网站，涉及环境宣传等方面</p>
+项目地址：<a href="http://www.lxlining.cn.lu/water/public">http://www.lxlining.cn.lu/water/public</a>
 <hr>
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
